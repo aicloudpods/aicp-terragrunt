@@ -1,0 +1,5 @@
+/.idea/
+/fb-data-terraform.iml
+/redshift/.terraform/
+/kinesis-delivery-stream/.terraform/
+/kinesis-data-stream/.terraform/
